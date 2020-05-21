@@ -1,16 +1,22 @@
 
 # Table of Contents
 
-1.  [Section](#orge471070)
+1.  [Description of *INEGI Census Data* repository](#orgb859aac)
+2.  [Acknowledgements](#orgfac8ba3)
 
-Title
+Last revision: 2020-05-20
 
 
-<a id="orge471070"></a>
+<a id="orgb859aac"></a>
 
-# Section
+# Description of *INEGI Census Data* repository
 
-Reports Mexican census data produced by [INEGI](https://www.inegi.org.mx/), Mexico's official statistics board. 
+-   Author: Eric Magar
+-   Email: emagar at itam dot mx
+
+The repository reports Mexican census data produced by [INEGI](https://www.inegi.org.mx/), Mexico's official statistics board. Data for 2005 and 2010 is aggegated at the sección electoral level (units similar to U.S. census tracts, but larger in size). Data for 1970, 2000, 2005, and 2010 is aggregated at the level of municipalities. 
+
+State abbreviations are different from the official, which do not sort alphabetically. The table reports the used abbreviations.
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -255,4 +261,11 @@ Reports Mexican census data produced by [INEGI](https://www.inegi.org.mx/), Mexi
 </tr>
 </tbody>
 </table>
+
+
+<a id="orgfac8ba3"></a>
+
+# Acknowledgements
+
+Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. He is responsible for mistakes and shortcomings in the data. 
 
